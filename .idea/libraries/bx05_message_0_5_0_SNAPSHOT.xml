@@ -1,0 +1,19 @@
+<component name="libraryTable">
+  <library name="bx05.message-0.5.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libs/bx05.message-0.5.0-SNAPSHOT.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/bx05-0.5.0-SNAPSHOT.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/bx06.message-0.6.0-SNAPSHOT.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/bx06-0.6.0-SNAPSHOT.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/log4j-1.2.14.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/simple-xml-2.7.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/uia-comm-0.3.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/uia-message-0.6.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/uia-utils-0.2.0.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/libs/bx06-0.6.0-SNAPSHOT-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>
